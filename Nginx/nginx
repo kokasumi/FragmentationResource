@@ -1,5 +1,6 @@
 #!/bin/sh
-#
+# 
+# RHEL, Fedora, CentOS系统中Nginx开机自启脚本，最新脚本信息可查看https://www.nginx.com/resources/wiki/start/topics/examples/redhatnginxinit/
 # nginx - this script starts and stops the nginx daemon
 #
 # chkconfig:   - 85 15
