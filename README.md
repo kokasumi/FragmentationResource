@@ -3,6 +3,5 @@
 - code
 - scripts
   - Java
-    - [部署Jar包服务](./scripts/Java/server-deploy.sh)
+    - [部署Jar包服务](./scripts/Java/deploy-jar.sh)
 - images
-
